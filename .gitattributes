@@ -1,3 +1,6 @@
 *.java linguist-detectable=true
-*.html linguist-vendored
+*.html linguist-detectable=true
+*.js linguist-detectable=true
+*.css linguist-detectable=true
+
 
